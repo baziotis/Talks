@@ -15,6 +15,9 @@ to join our slack community (and optionally the #open_source channel).
 If you're not comfortable with slack, don't worry, there's a specific #slack_help channel to help you out.
 Other than that, you can contact me or any member of the UoA ACM Student Chapter.
 
+## Talk Video (in Greek)
+https://www.youtube.com/watch?v=BgNUeq4AnWw
+
 ## Location
 National and Kapodistrian University of Athens
 
