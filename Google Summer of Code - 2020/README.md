@@ -25,7 +25,7 @@ Other than that, you can contact me or any member of the UoA ACM Student Chapter
 
 ## Video of the Talk (in Greek)
 
-https://youtu.be/HrE1AzaU9co
+https://youtu.be/UMZcwAHba1o
 
 ## Location
 National and Kapodistrian University of Athens
