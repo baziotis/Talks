@@ -10,10 +10,8 @@ The slides are available in this same repository.
 ## Join the action
 
 This action will communicate through a slack channel, part of the general UoA ACM Student
-Chapter Slack workspace. You can use this [invitation link](https://join.slack.com/t/uoastudentchapter/shared_invite/enQtODIwMzg5OTQyODAxLTMyMzI2NTE5OTRlYmU0Yzc5YWU3YmI3Yjc3ZTdiYWI1M2RjN2Y1ZDM0M2JkMTdjNDg5MGY1ZTBjOGIxNTdiOTk)
-to join our slack community (and optionally the #open_source channel).
-If you're not comfortable with slack, don't worry, there's a specific #slack_help channel to help you out.
-Other than that, you can contact me or any member of the UoA ACM Student Chapter.
+Chapter Slack workspace. You can e-mail me in the contact address below to join the action.
+If you're not comfortable with Slack, don't worry, there's a specific #slack_help channel to help you out.
 
 ## Talk Video (in Greek)
 https://www.youtube.com/watch?v=BgNUeq4AnWw
